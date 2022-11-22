@@ -12,6 +12,7 @@
         android:orientation="vertical"
         android:background="@drawable/parafondo1"
         >
+//hola
 
         <LinearLayout
             android:id="@+id/ln1"

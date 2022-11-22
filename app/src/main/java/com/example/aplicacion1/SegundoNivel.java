@@ -104,7 +104,7 @@ public class SegundoNivel extends AppCompatActivity {
             startActivity(getIntent());
         }
     }
-
+//hola
     public void automatizar(TextView texto, ArrayList numeros){
         String mensaje;
 

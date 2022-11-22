@@ -11,6 +11,7 @@
         android:layout_height="match_parent"
         android:background="@drawable/parafondo1"
         android:orientation="vertical">
+//comentario
 
         <LinearLayout
             android:id="@+id/ln1"
