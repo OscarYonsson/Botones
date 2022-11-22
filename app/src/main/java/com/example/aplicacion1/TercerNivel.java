@@ -85,7 +85,7 @@ public class TercerNivel extends AppCompatActivity {
         }
     }
 
-    //hola
+    //holadfdf
     public void automatizar(TextView texto, ArrayList numeros){
         String mensaje;
 

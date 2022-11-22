@@ -104,7 +104,7 @@ public class CuartoNivel extends AppCompatActivity {
             startActivity(in2);
         }
     }
-//hola
+//holadfdf
     public void automatizar(TextView texto, ArrayList numeros){
         String mensaje;
 
